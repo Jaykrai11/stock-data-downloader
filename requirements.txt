@@ -1,4 +1,4 @@
+
 pandas
 yfinance
-python-dateutil
-tqdm
+matplotlib
